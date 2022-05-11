@@ -1,0 +1,39 @@
+.div1{
+    border-style: double;
+    border-width: 10px;
+    border-color: #a40a0a;
+    border-radius: 30px;
+    background-color: #1be006;
+    font-family: 'Montserrat',sans-serif;
+    color: rgb(254, 245, 251);
+    font-size: 50px;
+    text-align: center;
+    padding: 1%;
+    margin: 0%;
+    font-weight: initial;
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/22/762/507/film-movie-filmmaker-movie-director-wallpaper-preview.jpg);
+}
+
+body{
+    margin: 0%;
+    padding: 1%;
+    border-style: solid;
+    border-width: 10px;
+    border-color: #5f11dd;
+}
+
+.div2 {
+    font-family: 'Montserrat',sans-serif;
+    color: #6ab1ef;
+    font-size: 40px;
+    text-align: center;
+    padding: 1%;
+    margin: 0%;
+    font-weight: bolder;
+}
+th {
+    font-family: 'Montserrat', sans-serif;
+    color: #82c12f;
+    font-size: 20px;
+    text-align: center;
+}
